@@ -1,6 +1,5 @@
 public class CriaConta {
 
-   
     public static void main(String[] args) {
         Conta primeiraConta = new Conta(6646,969060);
         primeiraConta.deposita(200);
